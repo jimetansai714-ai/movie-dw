@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream - All-in-One Video Downloader",
+  "description": "High-performance video and audio extractor for TikTok, YouTube, Instagram Reels, and Facebook with HD/4K quality selection and MP3 audio download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
